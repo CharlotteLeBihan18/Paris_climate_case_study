@@ -1,17 +1,32 @@
 # Paris Case Study
 
-This repository contains the code and analysis for the project on socioeconomic and environmental inequalities in Paris.
+This repository contains the code, datasets, and analysis for a study on **climate and social inequalities in Paris**.  
+The project investigates how **heat exposure, urban form, and socioeconomic conditions** interact, with a focus on the **Urban Heat Island (UHI)** effect and the unequal vulnerability of different Parisian districts.
 
 ## Project Objective
-Analyze how economic and social inequalities influence the long-term growth and vulnerability of Parisian districts.
 
+The objective of this project is to:
+- Quantify **long-term temperature trends** in Paris (1873–2024).  
+- Measure and visualize the **Urban Heat Island (UHI)** effect using local temperature and land-use indicators.
+- Analyze **future climate projections** for the Paris region to assess potential changes in heat intensity.  
+- Examine how **income levels, population density, and green space availability** influence exposure to urban heat.  
+- Provide an initial **cost-benefit analysis** of adaptation measures implemented by the City of Paris.
+
+  
 ## Structure
-- `notebook.ipynb` → Main Google Colab notebook with data cleaning, analysis, and visualization.
-- `data/` → Contains (or references) the datasets used.
-- `results/` → Output graphs and figures (if applicable).
+
+- 'notebook.ipynb' → Main Google Colab notebook with data cleaning, analysis, and visualization.
+- 'data/' → Contains (or references) the datasets used.
 
 ## Data Sources
-- INSEE (Population data, 2023): https://data.iledefrance.fr/...
-- IMF WEO (October 2024): https://www.imf.org/en/Publications/WEO
+
+Detailed dataset information is provided inside the `data/README.md` file, which includes:
+- Dataset names and descriptions  
+- Source links (e.g., Paris.fr, INSEE, data.gouv.fr, Drias, etc.)  
+- Year of publication and relevance to each part of the analysis  
 
 ## How to Run
+
+1. Clone the repository
+2. Open the notebook
+3. Run all cells 
