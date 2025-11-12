@@ -22,7 +22,7 @@ The objective of this project is to:
 Detailed dataset information is provided inside the `data/README.md` file, which includes:
 - Dataset names and descriptions  
 - Source links (e.g., Paris.fr, INSEE, data.gouv.fr, Drias, etc.)  
-- Year of publication and relevance to each part of the analysis  
+- Year of publication 
 
 ## How to Run
 
