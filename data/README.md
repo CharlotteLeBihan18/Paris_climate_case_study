@@ -18,11 +18,11 @@ Each subfolder corresponds to one section of the analysis notebook.
 
 ## 2. Climate & Environmental Projections for the Region
 
-### 2.1 Climate Scenarios and Projections
+### 2.1 Climate Projections for Heat Risk in Paris (2037–2056)
 - **Drias – Les futurs du climat.** (2024). *Projections climatiques régionales pour la France métropolitaine (TRACC / RCP8.5).*  
   Source: [https://www.drias-climat.fr/drias_prod/accueil/okapiWebDrias/index.jsp?iddrias=climat](https://www.drias-climat.fr/drias_prod/accueil/okapiWebDrias/index.jsp?iddrias=climat)
 
-### 2.2 Vegetation and Green Space Data
+### 2.2 Repartition of Green Spaces in Paris
 - **Gouv.fr.** (2025). *Espaces verts – Données sur la végétation et les zones vertes urbaines à Paris.*  
   Source: [https://www.data.gouv.fr/datasets/espaces-verts-7](https://www.data.gouv.fr/datasets/espaces-verts-7)
 
@@ -41,7 +41,7 @@ Each subfolder corresponds to one section of the analysis notebook.
 
 ## 4. Cost-Benefit Analysis of Adaptation Measures
 
-### 4.1 Evaluation of Paris Climate Budget and Adaptation Costs
+### 4.1 Evaluation of Paris’s Environmental Budget and Public Support (2019–2023)
 - **Ville de Paris.** (2022). *Évaluation climat du budget de la collectivité – Bénéfices et coûts des mesures d’adaptation.*  
   Source:[https://opendata.paris.fr/explore/dataset/evaluation-climat-du-budget-d-ela-collectivite/information/](https://opendata.paris.fr/explore/dataset/evaluation-climat-du-budget-d-ela-collectivite/information/)
 
