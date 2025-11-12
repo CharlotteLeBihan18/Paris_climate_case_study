@@ -1,7 +1,6 @@
 # Paris Case Study
 
 This repository contains the code, datasets, and analysis for a study on **climate and social inequalities in Paris**.  
-The project investigates how **heat exposure, urban form, and socioeconomic conditions** interact, with a focus on the **Urban Heat Island (UHI)** effect and the unequal vulnerability of different Parisian districts.
 
 ## Project Objective
 
