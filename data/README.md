@@ -12,7 +12,7 @@ Each subfolder corresponds to one section of the analysis notebook.
 
 ### 1.2 Quantifying the Urban Heat Island Effect in Paris
 - **Gouv.fr.** (2023). *Cartographie nationale des indicateurs liés à l’îlot de chaleur urbain.*  
-  Source: [https://www.data.gouv.fr/datasets/cartographie-nationale-des-indicateurs-lies-a-l-ilot-de-chaleur-urbain](https://www.data.gouv.fr/datasets/cartographie-nationale-des-indicateurs-lies-a-l-ilot-de-chaleur-urbain)
+  Source: [https://www.data.gouv.fr/datasets/cartographie-nationale-des-indicateurs-lies-a-l-ilot-de-chaleur-urbain](https://www.data.gouv.fr/datasets/cartographie-nationale-des-indicateurs-lies-a-lilot-de-chaleur-urbain/)
 
 ---
 
